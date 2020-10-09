@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Прокачиваем Traxxas Grave Digger 1:16</title>
+  <link rel="profile" href="http://gmpg.org/xfn/11"/>
+  <link rel="pingback" href="https://anton.shevchuk.name/xmlrpc.php"/>
+  <link rel="apple-touch-icon" href="/wp-content/themes/desktop5/images/icons/icon-180x180.png"/>
+  <link rel="icon" type="image/png" href="/wp-content/themes/desktop5/images/icons/icon-192x192.png"
+        sizes="192x192"/>
+  <link rel="manifest" href="/wp-content/themes/desktop5/manifest.json"/>
+  <link rel="shortcut icon" href="/wp-content/themes/desktop5/images/favicon.ico"/>
+  <meta name="msapplication-TileColor" content="#b91d47"/>
+  <meta name="msapplication-TileImage" content="/wp-content/themes/desktop5/images/icons/icon-144x144.png"/>
+  <meta name="msapplication-config" content="/wp-content/themes/desktop5/browserconfig.xml"/>
+  <meta name="theme-color" content="#ffffff"/>
+  <link rel="alternate" type="application/rss+xml" title="Антон Шевчук &raquo; Announce Feed" href="https://anton.shevchuk.name/feed/?announce=1" />
+
+<!-- All In One SEO Pack 3.7.1[152,212] -->
+<meta name="description"  content="Сегодня будет «офтоп»-чтиво на тему радиоуправляемых машинок, да-да, этот рассказ для детей от 5-ти лет и старше... :) История эта началась пять лет назад с" />
+
+<meta name="keywords"  content="traxxas,my life" />
+
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://anton.shevchuk.name/#organization","url":"https://anton.shevchuk.name/","name":"Антон Шевчук","sameAs":[]},{"@type":"WebSite","@id":"https://anton.shevchuk.name/#website","url":"https://anton.shevchuk.name/","name":"Антон Шевчук","publisher":{"@id":"https://anton.shevchuk.name/#organization"}},{"@type":"WebPage","@id":"https://anton.shevchuk.name/my-life/upgrade-traxxas-grave-digger/#webpage","url":"https://anton.shevchuk.name/my-life/upgrade-traxxas-grave-digger/","inLanguage":"en-US","name":"Прокачиваем Traxxas Grave Digger 1:16","isPartOf":{"@id":"https://anton.shevchuk.name/#website"},"breadcrumb":{"@id":"https://anton.shevchuk.name/my-life/upgrade-traxxas-grave-digger/#breadcrumblist"},"datePublished":"2017-11-27T07:29:48+02:00","dateModified":"2019-06-20T13:50:06+02:00"},{"@type":"Article","@id":"https://anton.shevchuk.name/my-life/upgrade-traxxas-grave-digger/#article","isPartOf":{"@id":"https://anton.shevchuk.name/my-life/upgrade-traxxas-grave-digger/#webpage"},"author":{"@id":"https://anton.shevchuk.name/author/admin/#author"},"headline":"Прокачиваем Traxxas Grave Digger 1:16","datePublished":"2017-11-27T07:29:48+02:00","dateModified":"2019-06-20T13:50:06+02:00","commentCount":3,"mainEntityOfPage":{"@id":"https://anton.shevchuk.name/my-life/upgrade-traxxas-grave-digger/#webpage"},"publisher":{"@id":"https://anton.shevchuk.name/#organization"},"articleSection":"My Life, traxxas","image":{"@type":"ImageObject","@id":"https://anton.shevchuk.name/my-life/upgrade-traxxas-grave-digger/#primaryimage","url":"e/wp-content/uploads/2017/11/traxxas-380-460x259.jpg"}},{"@type":"Person","@id":"https://anton.shevchuk.name/author/admin/#author","name":"Anton Shevchuk","sameAs":["https://www.facebook.com/anton.shevchuk","AntonShevchuk"],"image":{"@type":"ImageObject","@id":"https://anton.shevchuk.name/#personlogo","url":"https://secure.gravatar.com/avatar/ea4139df8a4d0b30b65135dba2a9d397?s=96&d=mm&r=pg","width":96,"height":96,"caption":"Anton Shevchuk"}},{"@type":"BreadcrumbList","@id":"https://anton.shevchuk.name/my-life/upgrade-traxxas-grave-digger/#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://anton.shevchuk.name/","url":"https://anton.shevchuk.name/","name":"Антон Шевчук: блог web-разработчика"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://anton.shevchuk.name/my-life/upgrade-traxxas-grave-digger/","url":"https://anton.shevchuk.name/my-life/upgrade-traxxas-grave-digger/","name":"Прокачиваем Traxxas Grave Digger 1:16"}}]}]}</script>
+<link rel="canonical" href="https://anton.shevchuk.name/my-life/upgrade-traxxas-grave-digger/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-1669896-2', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- All In One SEO Pack -->
+<link rel="alternate" type="application/rss+xml" title="Антон Шевчук &raquo; Feed" href="https://anton.shevchuk.name/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Антон Шевчук &raquo; Comments Feed" href="https://anton.shevchuk.name/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Антон Шевчук &raquo; Прокачиваем Traxxas Grave Digger 1:16 Comments Feed" href="https://anton.shevchuk.name/my-life/upgrade-traxxas-grave-digger/feed/" />
+<link rel='stylesheet' id='future-theme-css'  href='https://anton.shevchuk.name/wp-content/themes/desktop5/style.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://anton.shevchuk.name/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://anton.shevchuk.name/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='a-slideshow-css'  href='https://anton.shevchuk.name/wp-content/plugins/a-slideshow//lib/jquery.aslideshow/simple/styles.css?ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://anton.shevchuk.name/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://anton.shevchuk.name/wp-content/plugins/a-slideshow//lib/jquery.aslideshow.pack.js?ver=5.5.1' id='a-slideshow-js'></script>
+<link rel="https://api.w.org/" href="https://anton.shevchuk.name/wp-json/" /><link rel="alternate" type="application/json" href="https://anton.shevchuk.name/wp-json/wp/v2/posts/3069" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://anton.shevchuk.name/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://anton.shevchuk.name/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Обновление сервиса charts.hohli.com' href='https://anton.shevchuk.name/javascript/update-service-charts-hohli-com/' />
+<link rel='next' title='Чёртова дюжина' href='https://anton.shevchuk.name/company/bakers-dozen/' />
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel='shortlink' href='https://anton.shevchuk.name/?p=3069' />
+<link rel="alternate" type="application/json+oembed" href="https://anton.shevchuk.name/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fanton.shevchuk.name%2Fmy-life%2Fupgrade-traxxas-grave-digger%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://anton.shevchuk.name/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fanton.shevchuk.name%2Fmy-life%2Fupgrade-traxxas-grave-digger%2F&#038;format=xml" />
+<meta property="og:title" name="og:title" content="Прокачиваем Traxxas Grave Digger 1:16" />
+<meta property="og:type" name="og:type" content="article" />
+<meta property="og:image" name="og:image" content="https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_Grave_Digger.jpg" />
+<meta property="og:image" name="og:image" content="https://anton.shevchuk.name/wp-content/uploads/2017/11/MonsterJam-Stokholm.jpg" />
+<meta property="og:image" name="og:image" content="https://anton.shevchuk.name/wp-content/uploads/2017/11/MonsterJam-Stockholm.jpg" />
+<meta property="og:url" name="og:url" content="https://anton.shevchuk.name/my-life/upgrade-traxxas-grave-digger/" />
+<meta property="og:description" name="og:description" content="Сегодня будет «офтоп»-чтиво на тему радиоуправляемых машинок, да-да, этот рассказ для детей от 5-ти лет и старше... :) История эта началась пять лет назад с подарка сыну от «деда мороза». С выбором «дед мороз» долго не заморачивался — пришёл, увидел и купил. Хотя да, в магазине выбирал такую, которая не боится воды и грязи, не [...]" />
+<meta property="og:locale" name="og:locale" content="en_US" />
+<meta property="og:site_name" name="og:site_name" content="Антон Шевчук" />
+<meta property="twitter:card" name="twitter:card" content="summary_large_image" />
+<meta property="twitter:creator" name="twitter:creator" content="@AntonShevchuk" />
+<meta property="article:tag" name="article:tag" content="traxxas" />
+<meta property="article:section" name="article:section" content="My Life" />
+<meta property="article:published_time" name="article:published_time" content="2017-11-27T09:29:48+02:00" />
+<meta property="article:modified_time" name="article:modified_time" content="2019-06-20T15:50:06+02:00" />
+<meta property="article:author" name="article:author" content="https://anton.shevchuk.name/author/admin/" />
+<meta property="article:author" name="article:author" content="https://www.facebook.com/anton.shevchuk" />
+<link rel="amphtml" href="https://anton.shevchuk.name/my-life/upgrade-traxxas-grave-digger/amp/"></head>
+
+<body>
+<div id="wrapper">
+  <div id="container">
+    <header id="title">
+              <a href="https://anton.shevchuk.name" title="Антон Шевчук" class="header">
+            Антон Шевчук          <span> // Web-разработчик</span>
+        </a>
+          </header>
+    <div id="menu" class="decor">
+      <a id="jquery" href="/jquery-book/" title="jQuery для начинающих">jQuery</a>
+      <a href="/about/" title="Немного о себе">Об авторе</a>
+      <a href="/projects/" title="Мои проекты">Проекты</a>
+      <a id="twitter" href="https://twitter.com/AntonShevchuk" title="Следуй за мной">2345</a>
+      <a id="feed" href="/feed/" title="Не ленись - подпишись">3101</a>
+    </div>
+    <section id="posts">
+    <article class="entry">
+    <header>
+      <h1 class="title" data-id="3069">
+        <a href="https://anton.shevchuk.name/my-life/upgrade-traxxas-grave-digger/"
+           title="Permalink to Прокачиваем Traxxas Grave Digger 1:16"
+           rel="bookmark">
+            Прокачиваем Traxxas Grave Digger 1:16        </a>
+        <span>//</span> <a href="https://anton.shevchuk.name/category/my-life/" class="category" title="My Life">My Life</a>      </h1>
+    </header>
+
+        <p><img loading="lazy" src="/wp-content/uploads/2017/11/Traxxas_Grave_Digger-460x460.jpg" alt="" width="460" height="460" class="aligncenter size-medium wp-image-3072" srcset="https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_Grave_Digger-460x460.jpg 460w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_Grave_Digger-300x300.jpg 300w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_Grave_Digger-200x200.jpg 200w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_Grave_Digger-360x360.jpg 360w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_Grave_Digger.jpg 640w" sizes="(max-width: 460px) 100vw, 460px" /></p>
+<p>Сегодня будет «офтоп»-чтиво на тему радиоуправляемых машинок, да-да, этот рассказ для детей от 5-ти лет и старше&#8230; :)</p>
+<p><span id="more-3069"></span></p>
+<p>История эта началась пять лет назад с подарка сыну от «деда мороза». С выбором «дед мороз» долго не заморачивался — пришёл, увидел и купил. Хотя да, в магазине выбирал такую, которая не боится воды и грязи, не «no name» и с приемлемой ценой <a href="https://modelistam.com.ua/traxxas-grave-digger-116-27mgts-tra7202a-p-8860/">~$200</a>, наличие же в комплекте детского рюкзака и вовсе превращало такую машинку в идеальный подарок.<br />
+Да и если признаться, то «дед» и сам был не прочь погонять на таком подарочке :)</p>
+<h3>Первое впечатление</h3>
+<p><strong>— Вау!!! </strong></p>
+<p>На погонялки собиралась вся детвора с округи, хотя зимой аккумулятора хватало лишь на 15 минут игры:</p>
+<p><img loading="lazy" src="/wp-content/uploads/2017/11/Traxxas_Grave_Digger_Winter.jpg" alt="" width="640" height="395" class="aligncenter size-full wp-image-3075" srcset="https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_Grave_Digger_Winter.jpg 640w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_Grave_Digger_Winter-460x284.jpg 460w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<p>От просмотра данного видео возможно дежавю по старым добрым ламповым телефонам:</p>
+<p><iframe width="640" height="480" src="https://www.youtube.com/embed/FIx5cS97_eo?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p>Первые ходовые испытания по лужам и грязи:</p>
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/RktqILfxmWE?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<h3>Характеристики</h3>
+<p>Изначальные характеристики:</p>
+<ul>
+<li>Электродвигатель Traxxas Titan 12T 550</li>
+<li>Регулятор оборотов Traxxas XL-2.5 (поддерживает Li-Po аккумуляторы)</li>
+<li>Пульт управления Traxxas TQ 27Mhz</li>
+<li>NiMh аккумулятор 7.2V на 1200mAh</li>
+<li>Максимальная скорость — 30 км/ч</li>
+</ul>
+<blockquote><p>Данная модель оснащена коллекторным (brushed) двигателем Titan 12t, а ещё бывают бесколлекторные (brushless) электродвигатели, который по своей сути будут понадёжней собрата со «щётками», и не боятся ни воды ни грязи, собственно это естественно отражается и на цене моделей. Чуть-больше теоретических знаний вы сможете подчерпнуть из статьи «<a href="http://www.rc-zaryad.com.ua/ohliad3">Колекторний VS Безколекторний двигуни RC моделей</a>»</p></blockquote>
+<p>Чем оказался хорош Traxxas, так это своей модульностью, все запчасти ходовой, двигателя и прочего практически полностью совместимы с e-Revo 1:16, Summit 1:16 и другими моделями масштаба 1:16, а некоторые и с большими моделями. Так что мне предстоял достаточно длительный путь по улучшению модели.</p>
+<blockquote><p>Большинство последующих ссылок будут реферальными на магазин Amazon, цены там не всегда самые лучшие, но зато являются хорошим ориентиром для поиска более дешёвых вариантов. Ещё будут ссылки на официальный магазин Traxxas, так вот — на Amazon всегда дешевле ;)</p></blockquote>
+<h3>Tuning &#8211; Stage 0 – Telemetry</h3>
+<p>Шагом номер 0 на пути к совершенству стали мелкие изменения в электрических узлах — были добавлены ряд датчиков, что позволило в реальном режиме времени получать информацию о температуре, напряжении и оборотах двигателя. Для данного апгрейда потребуется прикупить следующий набор комплектующих:</p>
+<ul>
+<li><a href="http://amzn.to/2zs9miF">Traxxas 6522 Sensor RPM Short 3x4mm</a> &#8211; $8.69 — датчик оборотов/скорости</li>
+<li><a href="http://amzn.to/2iItJO2">Traxxas 6538 Telemetry Trigger Magnet Holder for Spur Gear</a> &#8211; $5.00 &#8211; из всего этого набора для моей модели нужен лишь магнит для работы датчика оборотов, его можно купить отдельно <a href="http://amzn.to/2iOjzvw">Traxxas 6540 Telemetry Trigger Magnet 5x2mm</a> &#8211; $2.00, но найти его в продаже это ещё тот квест, так что купил целый набор</li>
+<li><a href="http://amzn.to/2iIbHeV">Traxxas 6523 Sensor Temperature/Voltage Short</a> &#8211; $7.95 — датчик температуры и напряжение</li>
+<li><a href="http://amzn.to/2zYh1V3">Traxxas 6543 Connector</a> – $6.29 — коннектор для датчика напряжения, но он мне не потребовался, т.к. идёт в комплекте с фарама, о котором расскажу чуть дальше</li>
+<li><a href="http://amzn.to/2hVXdes">Traxxas 6535 Temperature Sensor Mount for Electric Motors</a> — $2.00 — крепление для датчика температуры, ну это баловство и если очень уж хочется, а по факту можно обойтись просто одной стяжкой из строительного магазина</li>
+</ul>
+<p>Можно не заморачиваться и купить готовый набор (кликабельно), так что выбор за вами:</p>
+<p><a class="aligncenter" href="https://www.amazon.com/Traxxas-Brushless-TEMPERATURE-VOLTAGE-TELEMETRY/dp/B00ERUBMVK/ref=as_li_ss_il?s=toys-and-games&#038;ie=UTF8&#038;qid=1511383137&#038;sr=1-1-fkmr0&#038;keywords=traxxas+Power+Tap+Connector&#038;linkCode=li3&#038;tag=antonshevchuk-20&#038;linkId=8c12e49ef9c292f311a28dd9cef929e9" target="_blank" rel="noopener noreferrer"><img class="aligncenter" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&#038;ASIN=B00ERUBMVK&#038;Format=_SL250_&#038;ID=AsinImage&#038;MarketPlace=US&#038;ServiceVersion=20070822&#038;WS=1&#038;tag=antonshevchuk-20" ></a><img loading="lazy" src="https://ir-na.amazon-adsystem.com/e/ir?t=antonshevchuk-20&#038;l=li3&#038;o=1&#038;a=B00ERUBMVK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+<p>Ни один тюнинг не обходится без прокачки оптики, так что тут у нас всё всерьёз — были установлены оригинальные LED фары Traxxas 7285 от легендарного Summit, а не какой-то «китайский ксенон»:</p>
+<p><a class="aligncenter" href="https://www.amazon.com/Traxxas-16TH-Summit-Light-Complete/dp/B000C599B4/ref=as_li_ss_il?s=automotive&#038;ie=UTF8&#038;qid=1511382345&#038;sr=1-1&#038;keywords=Traxxas+7285&#038;linkCode=li3&#038;tag=antonshevchuk-20&#038;linkId=af6ce41d7e13837e93aa5c49c88e4afe" target="_blank" rel="noopener noreferrer"><img class="aligncenter" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&#038;ASIN=B000C599B4&#038;Format=_SL250_&#038;ID=AsinImage&#038;MarketPlace=US&#038;ServiceVersion=20070822&#038;WS=1&#038;tag=antonshevchuk-20" ></a><img loading="lazy" src="https://ir-na.amazon-adsystem.com/e/ir?t=antonshevchuk-20&#038;l=li3&#038;o=1&#038;a=B000C599B4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+<p>Данный набор установлен не по инструкции, понадобилось немного термоклея, да шуроповёрт в качестве дрели:</p>
+<p><img loading="lazy" src="/wp-content/uploads/2017/11/Traxxas_Grave_Digger_Light-460x259.jpg" alt="" width="460" height="259" class="aligncenter size-medium wp-image-3078" srcset="https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_Grave_Digger_Light-460x259.jpg 460w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_Grave_Digger_Light-768x432.jpg 768w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_Grave_Digger_Light.jpg 1024w" sizes="(max-width: 460px) 100vw, 460px" /></p>
+<p><img loading="lazy" src="/wp-content/uploads/2017/11/Traxxas_Grave_Digger_Backlight-460x275.jpg" alt="" width="460" height="275" class="aligncenter size-medium wp-image-3077" srcset="https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_Grave_Digger_Backlight-460x275.jpg 460w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_Grave_Digger_Backlight-768x459.jpg 768w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_Grave_Digger_Backlight.jpg 1024w" sizes="(max-width: 460px) 100vw, 460px" /></p>
+<p><img loading="lazy" src="/wp-content/uploads/2017/11/Traxxas_Grave_Digger_Mount_Light-460x345.jpg" alt="" width="460" height="345" class="aligncenter size-medium wp-image-3079" srcset="https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_Grave_Digger_Mount_Light-460x345.jpg 460w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_Grave_Digger_Mount_Light-768x576.jpg 768w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_Grave_Digger_Mount_Light.jpg 1024w" sizes="(max-width: 460px) 100vw, 460px" /></p>
+<p>Ещё остались светодиоды, но я пока не решил как их подключить, чтобы они органично вписались в экстерьер машинки. Кстати, оригинальный light-kit для Grave Digger&#8217;а тоже есть, это <a href="http://amzn.to/2zpyjY7">Traxxas 3686 Red LED Lights</a>, но мне он не понравился, кто это придумал — красный свет в качестве головного O_o</p>
+<p>Но нет пределу совершенства, есть ещё возможность установить GPS модуль. Для этого апгрейда телеметрии потребуется прикупить не так уж и много: <a href="http://amzn.to/2iIgInH">Traxxas 6550 Telemetry Expander</a> и непосредственно сам <a href="https://traxxas.com/products/parts/telemetry/6551gpsmodule">Traxxas 6551 GPS module</a>, но что-то цена кусается :(</p>
+<h3>Tuning – Stage 1 — TSM</h3>
+<p>Базовая модель изначально работала на 27Mhz чем жутко иногда доставала — особенно длинной антенны передатчика :), так что переход на 2.4GHz был лишь вопросом времени. Для такого апгрейда надо приобрести правильный Transmitter и Receiver, в этом вам поможет следующая табличка (полное описание на <a href="https://traxxas.com/support/Traxxas-TQi-Compatibility-Guide">странице производителя</a>):</p>
+<p><a href="https://traxxas.com/sites/default/files/24CompGuide-2016.jpg"><img class="aligncenter" src="https://traxxas.com/sites/default/files/images/24CompGuide-2016-m.jpg" alt="Traxxas Transmitter and Receivers" /></a></p>
+<p>Мой выбор пал на Traxxas 6509R с радиоприёмником 6533:</p>
+<p><a class="aligncenter" href="https://www.amazon.com/Receiver-Transmitter-bluetooth-Traxxas-brushless/dp/B01GQQFD4Y/ref=as_li_ss_il?s=toys-and-games&#038;ie=UTF8&#038;qid=1511378497&#038;sr=1-2&#038;keywords=Traxxas+6509R&#038;&#038;linkCode=li3&#038;tag=antonshevchuk-20&#038;linkId=18210d7d7ef5fcc7280ca6e0e9c6fa02" target="_blank" rel="noopener noreferrer"><img class="aligncenter" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&#038;ASIN=B01GQQFD4Y&#038;Format=_SL250_&#038;ID=AsinImage&#038;MarketPlace=US&#038;ServiceVersion=20070822&#038;WS=1&#038;tag=antonshevchuk-20" ></a><img loading="lazy" src="https://ir-na.amazon-adsystem.com/e/ir?t=antonshevchuk-20&#038;l=li3&#038;o=1&#038;a=B01GQQFD4Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+<p>Критерии выбора были просты — нужно было получать показания с датчиков телеметрии и очень уж хотелось заполучить прикольную штуку — Traxxas Stability Management (TSM) &#8211; курсовая устойчивость. Словами не объяснить, лучше показать работу оной фичи:</p>
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/5RsWaQMIODc?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p>Протестировать наличие и работу TSM можно следующим образом:</p>
+<blockquote><p>Ну ладно, видео выложу чуть-чуть попозже&#8230;</p></blockquote>
+<p>Для вывода данных телеметрии на мобильный телефон также понадобилось приобрести соответствующий модуль Traxxas 6511:</p>
+<p><a class="aligncenter" href="https://www.amazon.com/Traxxas-6511-Link-Wireless-Module/dp/B00N1YJQAC/ref=as_li_ss_il?s=toys-and-games&#038;ie=UTF8&#038;qid=1511381949&#038;sr=1-1&#038;keywords=Traxxas+6511&#038;linkCode=li3&#038;tag=antonshevchuk-20&#038;linkId=285c75b3bf0a7e8b79bc0a0166180529" target="_blank" rel="noopener noreferrer"><img class="aligncenter" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&#038;ASIN=B00N1YJQAC&#038;Format=_SL250_&#038;ID=AsinImage&#038;MarketPlace=US&#038;ServiceVersion=20070822&#038;WS=1&#038;tag=antonshevchuk-20" ></a><img loading="lazy" src="https://ir-na.amazon-adsystem.com/e/ir?t=antonshevchuk-20&#038;l=li3&#038;o=1&#038;a=B00N1YJQAC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+<p>Инструкция по установке простая, так что особо ничего расписывать не буду, а вот результатом похвастаюсь:</p>
+<p><a href="/wp-content/uploads/2017/11/Traxxas-Dashboard.jpg"><img loading="lazy" src="http://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas-Dashboard-460x259.jpg" alt="" width="460" height="259" class="aligncenter size-medium wp-image-3076" srcset="https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas-Dashboard-460x259.jpg 460w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas-Dashboard-768x432.jpg 768w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas-Dashboard-1024x576.jpg 1024w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas-Dashboard.jpg 1280w" sizes="(max-width: 460px) 100vw, 460px" /></a></p>
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/RSdIx6TZiuk?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p>Настройки приложения <a href="https://play.google.com/store/apps/details?id=com.traxxas.traxxaslink">Traxxas Link</a> для моей модели:</p>
+<p><a href="/wp-content/uploads/2017/11/Traxxas-Settings.jpg"><img loading="lazy" src="http://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas-Settings-460x259.jpg" alt="" width="460" height="259" class="aligncenter size-medium wp-image-3080" srcset="https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas-Settings-460x259.jpg 460w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas-Settings-768x432.jpg 768w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas-Settings-1024x576.jpg 1024w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas-Settings.jpg 1280w" sizes="(max-width: 460px) 100vw, 460px" /></a></p>
+<h3>Tuning – Stage 2 — Power</h3>
+<p>Единственная претензия к данной машинке — время игры, ведь 15-20 минут не хватает для «наиграться». Первая попытка докупить аккумуляторы родного формата не дала ощутимого прироста времени, а через год новые аккумуляторы и вовсе начали «протухать». Второй раз я решил подойти к вопросу более кардинально и прикупил LiPo батарею на 6000mAh (заявленных китайским производителем). Но тут надо помнить про один нюанс, батарею LiPo нельзя разряжать полностью, так что необходимо контролировать напряжение на ней. Встроенный контроллер скорости справляется с данной обязанностью, для этого его надо переключить в режим контроля напряжения (Low-Voltage Detection). Если у вас будет подобная задачка, то следуйте <a href="https://traxxas.com/support/Programming-Your-Traxxas-Electronic-Speed-Control">инструкции</a>:</p>
+<ul>
+<li>Включите машинку с помощью единственной кнопки EZ-Set на контроллере</li>
+<li>Если лампочка горит красным, значит контроль напряжения выключен, и переходите к следующему пункту</li>
+<li>Зажмите кнопку EZ-Set на контроллере на 10 секунд, лампочка должна погаснуть и загореться зелёным цветом (и дважды бибикнуть)</li>
+<li>Теперь при включении модели лампочка должна гореть зелёным цветом, что и должно обозначать что включён контроль напряжения</li>
+</ul>
+<p>Т.к. аккумулятор «слегка» больше оригинального, то и крепить его пришлось альтернативным способом:</p>
+<p><a href="/wp-content/uploads/2017/11/Traxxas_HRB_LiPo_6000mah.jpg"><img loading="lazy" src="http://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_HRB_LiPo_6000mah-460x273.jpg" alt="" width="460" height="273" class="aligncenter size-medium wp-image-3081" srcset="https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_HRB_LiPo_6000mah-460x273.jpg 460w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_HRB_LiPo_6000mah-768x455.jpg 768w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas_HRB_LiPo_6000mah.jpg 1024w" sizes="(max-width: 460px) 100vw, 460px" /></a></p>
+<p>Кроме стяжки с велкро-липучкой, батарею так же держат три пары липучек 3М:</p>
+<p><a href="/wp-content/uploads/2017/11/3M_Dual_Lock.jpg"><img loading="lazy" src="http://anton.shevchuk.name/wp-content/uploads/2017/11/3M_Dual_Lock-375x460.jpg" alt="" width="375" height="460" class="aligncenter size-medium wp-image-3082" srcset="https://anton.shevchuk.name/wp-content/uploads/2017/11/3M_Dual_Lock-375x460.jpg 375w, https://anton.shevchuk.name/wp-content/uploads/2017/11/3M_Dual_Lock-768x942.jpg 768w, https://anton.shevchuk.name/wp-content/uploads/2017/11/3M_Dual_Lock-835x1024.jpg 835w, https://anton.shevchuk.name/wp-content/uploads/2017/11/3M_Dual_Lock.jpg 2014w" sizes="(max-width: 375px) 100vw, 375px" /></a></p>
+<p>Вот собственно ссылки на аккумулятор и дополнительный датчик напряжения для батареи:</p>
+<ul>
+<li><a href="https://www.aliexpress.com/item/Register-free-shipping-7-4V-6000mAh-60C-2S-RC-LiPo-Battery-Hard-Case-for-1-10/1213565505.html">HRB RC Lipo Battery 2S 7.4V 6000mAh 60C 120C Hard Case for RC 1/10 Scale Traxxas Car Boat Helicopter Quadcopter</a> &#8211; $32.05</li>
+<li><a href="https://www.aliexpress.com/wholesale?catId=200002649&#038;SearchText=lipo+battery+voltage+tester&#038;maxPrice=5">Датчик напряжения с сигнализацией</a></li>
+</ul>
+<p>Для зарядки я использую <a href="http://amzn.to/2A8qEyh">SKYRC iMAX B6AC</a> c балансировкой Li-Po батарей – для данного типа батарей, это обязательно!</p>
+<h3>Tuning – Stage 3 — AWD</h3>
+<p>Установить полный привод — раз плюнуть, для этого существует специальный набор <a href="http://amzn.to/2BjDUQN">Traxxas 7252 1/16 4WD Conversion Kit</a> за $37.00. Жаль, что нет такого и для моей машины:</p>
+<p><a class="aligncenter" href="https://www.amazon.com/gp/product/B00BTF1TNM/ref=as_li_ss_il?ie=UTF8&#038;linkCode=li3&#038;tag=antonshevchuk-20&#038;linkId=4fe6434a9e7c72064cc0dd1e9416504f" target="_blank" rel="noopener noreferrer"><img class="aligncenter" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&#038;ASIN=B00BTF1TNM&#038;Format=_SL250_&#038;ID=AsinImage&#038;MarketPlace=US&#038;ServiceVersion=20070822&#038;WS=1&#038;tag=antonshevchuk-20" ></a><img loading="lazy" src="https://ir-na.amazon-adsystem.com/e/ir?t=antonshevchuk-20&#038;l=li3&#038;o=1&#038;a=B00BTF1TNM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+<p>Но вместо данного набора, я купил два других на e-bay, т.к. они включали больше деталей, а по цене не отличались. Первый набор — передний дифференциал в сборе за $12.77: </p>
+<ul>
+<li><a href="https://traxxas.com/products/parts/7030x">Traxxas 7030X Front Bulkhead for 1/16th Scale Vehicles</a> — эти детали корпуса переднего привода были изначально установлены на машине, так что теперь есть запасные</li>
+<li><a href="https://traxxas.com/products/parts/7043">Traxxas 7043 1/16 Steering Hardware</a> — тут лишь было установлено крепление привода</li>
+<li><a href="https://traxxas.com/products/parts/7078">Traxxas 7078 Complete Differential Assembly</a></li>
+<li><a href="https://traxxas.com/products/parts/7079">Traxxas 7079 1/16 Differential Ring and Pinion Gear</a></li>
+<li><a href="https://traxxas.com/products/parts/7082">Traxxas 7082 1/16 Differential Gear Set and Output Shafts</a></li>
+<li><a href="https://traxxas.com/products/parts/7080">Traxxas 7080 1/16 Scale Differential Cover Plates and Seals</a></li>
+<li>Пара подшипников <a href="https://traxxas.com/products/parts/7020">Traxxas 7020 8&#215;12 Ball Bearings</a></li>
+<li>Пара подшипников <a href="https://traxxas.com/products/parts/7019">Traxxas 7019 4&#215;8 Ball Bearings</a></li>
+</ul>
+<p>Второй набор включал передний и задний карданный валы, а так же приводные валы на все колёса — за всё — $25.55:</p>
+<ul>
+<li><a href="https://traxxas.com/products/parts/7057">Traxxas 7057 Differential and Transmission Yokes, 3x10mm</a> — три пары</li>
+<li><a href="https://traxxas.com/products/parts/7051">Traxxas 7051 Driveshaft Assembly, Left or Right</a></li>
+<li><a href="https://traxxas.com/products/parts/7054">Traxxas 7054 1/16 Scale Steel Stub Axles and Yokes (pair)</a> &#8211; две пары</li>
+<li><a href="https://traxxas.com/products/parts/7056">Traxxas 7056 Center Half Shafts Front and Rear</a> &#8211; парочка</li>
+<li><a href="https://traxxas.com/products/parts/7154">Traxxas 7154 Wheel Hubs with Axle Pins</a></li>
+<li><a href="https://traxxas.com/products/parts/3647">Traxxas 3647 Flanged Nylon Lock Nuts</a> &#8211; набор запасных гаек</li>
+</ul>
+<p>Поскольку машина-зверь, то чтобы она не переворачивалась на старте пришлось докупить пару колёс <a href="http://amzn.to/2A6XFgC">Traxxas 7184 Wheelie Bar</a>.</p>
+<h3>Tuning &#8211; Stage 3+</h3>
+<p>Следующий шаг &#8211; замена «силовой установки». Не факт, что я решусь на него, но пусть тут будет ссылка на бесколлекторный двигатель Velineon 380 и контроллер VXL-3m (TRA3370):</p>
+<p><a class="aligncenter" href="https://www.amazon.com/Traxxas-3370-Velineon-VXL-3m-Brushless/dp/B002AVXTAA/ref=as_li_ss_il?ie=UTF8&#038;linkCode=li3&#038;tag=antonshevchuk-20&#038;linkId=eb81dcfd9b69f624e30dae3c127a887d" target="_blank" rel="noopener noreferrer"><img class="aligncenter" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&#038;ASIN=B002AVXTAA&#038;Format=_SL250_&#038;ID=AsinImage&#038;MarketPlace=US&#038;ServiceVersion=20070822&#038;WS=1&#038;tag=antonshevchuk-20" ></a><img loading="lazy" src="https://ir-na.amazon-adsystem.com/e/ir?t=antonshevchuk-20&#038;l=li3&#038;o=1&#038;a=B002AVXTAA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+<p>Ещё потребуется заменить крепление мотора TRA7090, TRA7060, TRA7077 шестерёнка TRA4728, подробнее в <a href="https://traxxas.com/explodedviews/7107-Transmission-Exploded-Views-116th-E-Revo-VXL">схеме</a>.</p>
+<h3>Updated 2018-07-10</h3>
+<p>Таки решился:</p>
+<p><img loading="lazy" src="/wp-content/uploads/2017/11/Traxxas-Velineon-380-460x309.jpg" alt="" width="460" height="309" class="aligncenter size-medium wp-image-3154" srcset="https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas-Velineon-380-460x309.jpg 460w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas-Velineon-380-768x516.jpg 768w, https://anton.shevchuk.name/wp-content/uploads/2017/11/Traxxas-Velineon-380.jpg 800w" sizes="(max-width: 460px) 100vw, 460px" /></p>
+<p><img loading="lazy" src="e/wp-content/uploads/2017/11/traxxas-380-460x259.jpg" alt="" width="460" height="259" class="aligncenter size-medium wp-image-3153" srcset="https://anton.shevchuk.name/wp-content/uploads/2017/11/traxxas-380-460x259.jpg 460w, https://anton.shevchuk.name/wp-content/uploads/2017/11/traxxas-380-768x432.jpg 768w, https://anton.shevchuk.name/wp-content/uploads/2017/11/traxxas-380-1024x576.jpg 1024w, https://anton.shevchuk.name/wp-content/uploads/2017/11/traxxas-380.jpg 1280w" sizes="(max-width: 460px) 100vw, 460px" /></p>
+<h3>Видео</h3>
+<p>Вот так, собственно, выглядит машинка после апгрейда, на «подъёмнике»:</p>
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/xsVmNR8wBdM?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p>И на дороге:</p>
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/RX0mE2ApxKA?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<h3>P.S.</h3>
+<p>Надеюсь вам понравился данный пост, и возможно в вашем гараже появится авто масштаба 1:16, а может и 1:10 ;)</p>
+<h3>P.P.S.</h3>
+<p>Если у вас будет возможность, то обязательно посетите шоу <a href="https://www.monsterjam.com/">Monster Jam</a></p>
+
+		<style type="text/css">
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 100%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-1' class='gallery galleryid-3069 gallery-columns-1 gallery-size-medium'><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='https://anton.shevchuk.name/wp-content/uploads/2017/11/MonsterJam-Stockholm.jpg'><img width="460" height="460" src="https://anton.shevchuk.name/wp-content/uploads/2017/11/MonsterJam-Stockholm-460x460.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://anton.shevchuk.name/wp-content/uploads/2017/11/MonsterJam-Stockholm-460x460.jpg 460w, https://anton.shevchuk.name/wp-content/uploads/2017/11/MonsterJam-Stockholm-300x300.jpg 300w, https://anton.shevchuk.name/wp-content/uploads/2017/11/MonsterJam-Stockholm-768x768.jpg 768w, https://anton.shevchuk.name/wp-content/uploads/2017/11/MonsterJam-Stockholm-1024x1024.jpg 1024w, https://anton.shevchuk.name/wp-content/uploads/2017/11/MonsterJam-Stockholm-200x200.jpg 200w, https://anton.shevchuk.name/wp-content/uploads/2017/11/MonsterJam-Stockholm-360x360.jpg 360w, https://anton.shevchuk.name/wp-content/uploads/2017/11/MonsterJam-Stockholm.jpg 1921w" sizes="(max-width: 460px) 100vw, 460px" /></a>
+			</dt></dl><br style="clear: both" /><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='https://anton.shevchuk.name/wp-content/uploads/2017/11/MonsterJam-Stokholm.jpg'><img width="460" height="460" src="https://anton.shevchuk.name/wp-content/uploads/2017/11/MonsterJam-Stokholm-460x460.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://anton.shevchuk.name/wp-content/uploads/2017/11/MonsterJam-Stokholm-460x460.jpg 460w, https://anton.shevchuk.name/wp-content/uploads/2017/11/MonsterJam-Stokholm-300x300.jpg 300w, https://anton.shevchuk.name/wp-content/uploads/2017/11/MonsterJam-Stokholm-768x768.jpg 768w, https://anton.shevchuk.name/wp-content/uploads/2017/11/MonsterJam-Stokholm-1024x1024.jpg 1024w, https://anton.shevchuk.name/wp-content/uploads/2017/11/MonsterJam-Stokholm-200x200.jpg 200w, https://anton.shevchuk.name/wp-content/uploads/2017/11/MonsterJam-Stokholm-360x360.jpg 360w" sizes="(max-width: 460px) 100vw, 460px" /></a>
+			</dt></dl><br style="clear: both" />
+		</div>
+
+    <footer>
+    <time datetime="2017-11-27">November 27, 2017</time>
+    |
+    Теги: <a href="https://anton.shevchuk.name/tag/traxxas/" rel="tag">traxxas</a> |    <a href="https://anton.shevchuk.name/my-life/upgrade-traxxas-grave-digger/#comments" class="comments-link" >3 комментариев »</a></footer>
+  </article>
+    <section id="comments">
+        </section>
+    <nav class="decor">
+      <a href="https://anton.shevchuk.name/javascript/update-service-charts-hohli-com/" rel="prev"><span>«</span> Обновление сервиса charts.hohli.com</a>      <a href="https://anton.shevchuk.name/company/bakers-dozen/" rel="next">Чёртова дюжина <span>»</span></a>  </nav>
+    <script type='text/javascript' src='https://anton.shevchuk.name/wp-content/plugins/syntaxhighlighter/syntaxhighlighter3/scripts/shCore.js?ver=3.0.9b' id='syntaxhighlighter-core-js'></script>
+<script type='text/javascript' src='https://anton.shevchuk.name/wp-content/plugins/syntaxhighlighter/syntaxhighlighter3/scripts/shBrushCss.js?ver=3.0.9b' id='syntaxhighlighter-brush-css-js'></script>
+<script type='text/javascript' src='https://anton.shevchuk.name/wp-content/plugins/syntaxhighlighter/syntaxhighlighter3/scripts/shBrushJScript.js?ver=3.0.9b' id='syntaxhighlighter-brush-jscript-js'></script>
+<script type='text/javascript' src='https://anton.shevchuk.name/wp-content/plugins/syntaxhighlighter/syntaxhighlighter3/scripts/shBrushPhp.js?ver=3.0.9b' id='syntaxhighlighter-brush-php-js'></script>
+<script type='text/javascript' src='https://anton.shevchuk.name/wp-content/plugins/syntaxhighlighter/syntaxhighlighter3/scripts/shBrushSql.js?ver=3.0.9b' id='syntaxhighlighter-brush-sql-js'></script>
+<script type='text/javascript' src='https://anton.shevchuk.name/wp-content/plugins/syntaxhighlighter/syntaxhighlighter3/scripts/shBrushXml.js?ver=3.0.9b' id='syntaxhighlighter-brush-xml-js'></script>
+<link rel='stylesheet' id='syntaxhighlighter-core-css'  href='https://anton.shevchuk.name/wp-content/plugins/syntaxhighlighter/syntaxhighlighter3/styles/shCore.css?ver=3.0.9b' type='text/css' media='all' />
+<link rel='stylesheet' id='syntaxhighlighter-theme-default-css'  href='https://anton.shevchuk.name/wp-content/plugins/syntaxhighlighter/syntaxhighlighter3/styles/shThemeDefault.css?ver=3.0.9b' type='text/css' media='all' />
+</section>
+<footer>
+  <section id="nav_menu-4" class="widget widget_nav_menu"><h4>Информация</h4><div class="menu-sidebar-container"><ul id="menu-sidebar" class="menu"><li id="menu-item-1723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1723"><a href="https://anton.shevchuk.name/projects/">Проекты</a></li>
+<li id="menu-item-1722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1722"><a href="https://anton.shevchuk.name/about/">О блоге, и обо мне</a></li>
+<li id="menu-item-1725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1725"><a href="https://anton.shevchuk.name/wishlist/">Список желаемого</a></li>
+<li id="menu-item-3129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3129"><a href="https://anton.shevchuk.name/php/">PHP для всех</a></li>
+<li id="menu-item-1943" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1943"><a href="https://anton.shevchuk.name/jquery/">jQuery для всех</a></li>
+<li id="menu-item-2921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2921"><a href="https://anton.shevchuk.name/jquery-book/">jQuery для начинающих</a></li>
+</ul></div></section><section id="linkcat-81" class="widget widget_links"><h4>Проекты</h4>
+	<ul class='xoxo blogroll'>
+<li><a href="http://donate.hohli.com/">Donate Progress</a></li>
+<li><a href="http://charts.hohli.com/" title="The service lets you dynamically generate charts.">Online Charts Builder</a></li>
+<li><a href="http://photo.hohli.com" rel="me" title="PhotoBlog &#8211; Free Full-Size Photos">PhotoBlog</a></li>
+
+	</ul>
+</section>
+<section id="linkcat-2" class="widget widget_links"><h4>Блогролл</h4>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.fatalseo.com" rel="friend" title="Рожденный быть свободным">Fatal SEO Blog</a></li>
+<li><a href="http://www.nixsolutions.com" title="Custom Software Development from My Company">NIX Solutions Ltd.</a></li>
+<li><a href="http://voituk.kiev.ua/" title="Записки Искателей">Записки Искателей</a></li>
+<li><a href="http://cotoha.info" rel="friend neighbor">Мысли с самого низа</a></li>
+<li><a href="http://www.fatalgame.com/" title="Прохождение игр">Прохождение игр</a></li>
+
+	</ul>
+</section>
+  <p>&copy; Антон Шевчук 2007-2020</p>
+  <script type='text/javascript' src='https://anton.shevchuk.name/wp-includes/js/comment-reply.min.js?ver=5.5.1' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://anton.shevchuk.name/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://anton.shevchuk.name/wp-content/themes/desktop5/script.js?ver=5.5.1' id='future-theme-js'></script>
+<script type='text/javascript' id='quicktags-js-extra'>
+/* <![CDATA[ */
+var quicktagsL10n = {"closeAllOpenTags":"Close all open tags","closeTags":"close tags","enterURL":"Enter the URL","enterImageURL":"Enter the URL of the image","enterImageDescription":"Enter a description of the image","textdirection":"text direction","toggleTextdirection":"Toggle Editor Text Direction","dfw":"Distraction-free writing mode","strong":"Bold","strongClose":"Close bold tag","em":"Italic","emClose":"Close italic tag","link":"Insert link","blockquote":"Blockquote","blockquoteClose":"Close blockquote tag","del":"Deleted text (strikethrough)","delClose":"Close deleted text tag","ins":"Inserted text","insClose":"Close inserted text tag","image":"Insert image","ul":"Bulleted list","ulClose":"Close bulleted list tag","ol":"Numbered list","olClose":"Close numbered list tag","li":"List item","liClose":"Close list item tag","code":"Code","codeClose":"Close code tag","more":"Insert Read More tag"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://anton.shevchuk.name/wp-includes/js/quicktags.min.js?ver=5.5.1' id='quicktags-js'></script>
+</footer>
+<div id="sidebar">
+  <section class="category">
+    <ul>
+        <li class="categories"><h4>Категории</h4><ul>	<li class="cat-item cat-item-108"><a href="https://anton.shevchuk.name/category/company/" title="О работе в компании NIX Solutions Ltd.">Company</a>
+</li>
+	<li class="cat-item cat-item-48"><a href="https://anton.shevchuk.name/category/design/" title="Веб-дизайн, интерфейсы и юзабилити">Design</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="https://anton.shevchuk.name/category/estimation/" title="Оценки проектов и рисков">Estimation</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://anton.shevchuk.name/category/google/" title="Сервисы Google и работа с их API">Google</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="https://anton.shevchuk.name/category/html-and-css/" title="Современный HTML и CSS">HTML and CSS</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="https://anton.shevchuk.name/category/internet/" title="Об Интернете и его развитии">Internet</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="https://anton.shevchuk.name/category/javascript/" title="Статьи для начинающих JavaScript разработчиков">JavaScript</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="https://anton.shevchuk.name/category/my-life/" title="Всяко-разно из моей жизни">My Life</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://anton.shevchuk.name/category/php/" title="О PHP программировании и сопутствующих технологиях">PHP</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="https://anton.shevchuk.name/category/project-management/" title="Управление проектами">Project Management</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://anton.shevchuk.name/category/underground/" title="Всё что не касается разработки">Underground</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="https://anton.shevchuk.name/category/wordpress/" title="Разработка тем и плагинов для WordPress">WordPress</a>
+</li>
+</ul></li>    </ul>
+  </section>
+  <section class="tags">
+    <h4>Теги</h4>
+    <a href="https://anton.shevchuk.name/tag/ajax/" class="tag-cloud-link tag-link-57 tag-link-position-1" style="font-size: 8.75pt;" aria-label="AJAX (4 items)">AJAX</a>
+<a href="https://anton.shevchuk.name/tag/announcement/" class="tag-cloud-link tag-link-76 tag-link-position-2" style="font-size: 13.4pt;" aria-label="Announcement (20 items)">Announcement</a>
+<a href="https://anton.shevchuk.name/tag/blog/" class="tag-cloud-link tag-link-20 tag-link-position-3" style="font-size: 10.25pt;" aria-label="Blog (7 items)">Blog</a>
+<a href="https://anton.shevchuk.name/tag/css/" class="tag-cloud-link tag-link-29 tag-link-position-4" style="font-size: 8.75pt;" aria-label="CSS (4 items)">CSS</a>
+<a href="https://anton.shevchuk.name/tag/design/" class="tag-cloud-link tag-link-133 tag-link-position-5" style="font-size: 9.35pt;" aria-label="Design (5 items)">Design</a>
+<a href="https://anton.shevchuk.name/tag/education/" class="tag-cloud-link tag-link-134 tag-link-position-6" style="font-size: 11.825pt;" aria-label="Education (12 items)">Education</a>
+<a href="https://anton.shevchuk.name/tag/google/" class="tag-cloud-link tag-link-130 tag-link-position-7" style="font-size: 13.25pt;" aria-label="Google (19 items)">Google</a>
+<a href="https://anton.shevchuk.name/tag/hardware/" class="tag-cloud-link tag-link-120 tag-link-position-8" style="font-size: 8.75pt;" aria-label="Hardware (4 items)">Hardware</a>
+<a href="https://anton.shevchuk.name/tag/jquery/" class="tag-cloud-link tag-link-56 tag-link-position-9" style="font-size: 14pt;" aria-label="jQuery (24 items)">jQuery</a>
+<a href="https://anton.shevchuk.name/tag/kharkiv/" class="tag-cloud-link tag-link-115 tag-link-position-10" style="font-size: 8.75pt;" aria-label="Kharkiv (4 items)">Kharkiv</a>
+<a href="https://anton.shevchuk.name/tag/links-dumper/" class="tag-cloud-link tag-link-95 tag-link-position-11" style="font-size: 8pt;" aria-label="links dumper (3 items)">links dumper</a>
+<a href="https://anton.shevchuk.name/tag/php/" class="tag-cloud-link tag-link-129 tag-link-position-12" style="font-size: 11.825pt;" aria-label="PHP (12 items)">PHP</a>
+<a href="https://anton.shevchuk.name/tag/php5/" class="tag-cloud-link tag-link-34 tag-link-position-13" style="font-size: 9.875pt;" aria-label="PHP5 (6 items)">PHP5</a>
+<a href="https://anton.shevchuk.name/tag/picasa/" class="tag-cloud-link tag-link-25 tag-link-position-14" style="font-size: 8.75pt;" aria-label="Picasa (4 items)">Picasa</a>
+<a href="https://anton.shevchuk.name/tag/plugin/" class="tag-cloud-link tag-link-87 tag-link-position-15" style="font-size: 9.35pt;" aria-label="Plugin (5 items)">Plugin</a>
+<a href="https://anton.shevchuk.name/tag/review/" class="tag-cloud-link tag-link-119 tag-link-position-16" style="font-size: 10.25pt;" aria-label="Review (7 items)">Review</a>
+<a href="https://anton.shevchuk.name/tag/seo/" class="tag-cloud-link tag-link-69 tag-link-position-17" style="font-size: 9.875pt;" aria-label="SEO (6 items)">SEO</a>
+<a href="https://anton.shevchuk.name/tag/ukraine/" class="tag-cloud-link tag-link-27 tag-link-position-18" style="font-size: 10.25pt;" aria-label="Ukraine (7 items)">Ukraine</a>
+<a href="https://anton.shevchuk.name/tag/web-20/" class="tag-cloud-link tag-link-53 tag-link-position-19" style="font-size: 8.75pt;" aria-label="WEB 2.0 (4 items)">WEB 2.0</a>
+<a href="https://anton.shevchuk.name/tag/zend-framework/" class="tag-cloud-link tag-link-44 tag-link-position-20" style="font-size: 13.25pt;" aria-label="Zend Framework (19 items)">Zend Framework</a>  </section>
+      <div class="addthis_inline_share_toolbox"></div>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a2aa47fbb3a995d"></script>
+  </div></div><!-- id="container" -->
+</div><!-- id="wrapper" -->
+</body>
+</html>
